@@ -19,14 +19,10 @@ def main():
         print("Expected first argument to be '-E'")
         exit(1)
 
-    # You can use print statements as follows for debugging, they'll be visible when running tests.
-    print("Logs from your program will appear here!", file=sys.stderr)
-
-    # TODO: Uncomment the code below to pass the first stage
-    # if match_pattern(input_line, pattern):
-    #     exit(0)
-    # else:
-    #     exit(1)
+    if match_pattern(input_line, pattern):
+        exit(0)
+    else:
+        exit(1)
 
 
 if __name__ == "__main__":
