@@ -12,10 +12,11 @@ concurrency:
 jobs:
   test_course_definition:
     uses: codecrafters-io/course-sdk/.github/workflows/test-course-definition.yml@main
-    with:
-      sdkRef: main
-    permissions:
-      contents: read
-      checks: write
-      pull-requests: write
-    secrets: inherit
+    # TODO: Uncomment this after a course has been created using this template
+    # with:
+    #   sdkRef: main
+    # permissions:
+    #   contents: read
+    #   checks: write
+    #   pull-requests: write
+    # secrets: inherit
