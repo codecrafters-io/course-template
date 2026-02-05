@@ -1,6 +1,12 @@
 <!-- This file will serve as a template for README.md in all language starters --> 
 <!-- Sample README.md is given below (For the "Build Your own Claude Code" challenge) -->
 <!-- Please change this according the to course -->
+<!-- After updating this README.md file -->
+<!-- Run `course-sdk compile python` -->
+<!-- Run `course-sdk compile go` -->
+<!-- Run `course-sdk compile rust` -->
+<!-- To include this README.md files in the existing language starters -->
+<!-- `course-sdk compile <language>` will automatically insert this readme file in the corresponding language's starter files -->
 
 ![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/claude-code.png)
 
