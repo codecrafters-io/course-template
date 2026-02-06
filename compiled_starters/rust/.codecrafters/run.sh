@@ -8,4 +8,4 @@
 
 set -e # Exit on failure
 
-exec /tmp/codecrafters-build-grep-rust/release/codecrafters-grep "$@"
+exec /tmp/codecrafters-build-your_course_slug-rust/release/codecrafters-your_course_slug "$@"

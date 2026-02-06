@@ -8,4 +8,4 @@
 
 set -e # Exit on failure
 
-cargo build --release --target-dir=/tmp/codecrafters-build-grep-rust --manifest-path Cargo.toml
+cargo build --release --target-dir=/tmp/codecrafters-build-your_course_slug-rust --manifest-path Cargo.toml

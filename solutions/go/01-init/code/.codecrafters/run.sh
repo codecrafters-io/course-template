@@ -8,4 +8,4 @@
 
 set -e # Exit on failure
 
-exec /tmp/codecrafters-build-grep-go "$@"
+exec /tmp/codecrafters-build-your_course_slug-go "$@"
