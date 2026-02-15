@@ -110,19 +110,5 @@ stages:
     difficulty: very_easy
 
     # The instructions for your stage. Markdown supported. Shown on the course page.
-    description_md: |-
-      In this stage, we'll do XYZ
-
-      **Example:** ABC
-
-      Your program will be executed like this: 
-
-      ```bash
-      $ echo "apple" | ./your_executable.sh -E "a"
-      ```
-
-      You program must ABCD.
-
-    # A description of this stage that is used on the course overview page and other marketing material. Markdown supported.
     marketing_md: |-
       In this stage, we'll do XYZ.
